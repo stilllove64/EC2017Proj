@@ -4,10 +4,10 @@
 		<div class="main-content-inner">
 			<div class="breadcrumbs ace-save-state" id="breadcrumbs">
 				<ul class="breadcrumb">
-					<li><i class="ace-icon fa fa-home home-icon"></i><a href="#">����</a></li>
-					<li><a href="#">�ֹ� ����</a></li>
-					<li><a href="#">�ֹ� �󼼰˻�</a></li>
-					<li class="active">���¾�ü</li>
+					<li><i class="ace-icon fa fa-home home-icon"></i><a href="#">메인2</a></li>
+					<li><a href="#">주문 관리</a></li>
+					<li><a href="#">주문 상세검색</a></li>
+					<li class="active">협력업체</li>
 				</ul>
 				<div class="nav-search" id="nav-search">
 					<form class="form-search">
@@ -19,7 +19,7 @@
 				</div>
 			</div>
 			<div class="page-content">
-				<div class="page-header"><h1>�ֹ� �󼼰˻�(���¾�ü)</h1></div>
+				<div class="page-header"><h1>주문 상세검색(협력업체)</h1></div>
 				<div class="row">
 					<div class="col-xs-12">
 						<div>
@@ -30,14 +30,14 @@
 											<div class="search-area well well-sm">
 												<div class="search-filter-header bg-primary">
 													<h5 class="smaller no-margin-bottom">
-													<i class="ace-icon fa fa-sliders light-green bigger-130"></i>�˻� �� ����</h5>
+													<i class="ace-icon fa fa-sliders light-green bigger-130"></i>검색 상세 설정</h5>
 												</div>
 												<div class="space-10"></div>
 												<form>
 													<div class="row">
 														<div class="col-xs-12 col-sm-11 col-md-10">
 															<div class="input-group">
-																<input type="text" class="form-control" name="keywords" placeholder="��ü�� �˻�" />
+																<input type="text" class="form-control" name="keywords" placeholder="업체명 검색" />
 																<div class="input-group-btn">
 																	<button type="button" class="btn btn-default no-border btn-sm">
 																	<i class="ace-icon fa fa-search icon-on-right bigger-110"></i>
@@ -74,24 +74,24 @@
 														<div class="media-body">
 															<div>
 																<h4 class="media-heading">
-																	<a href="#" class="blue">[��ü��] ��ǰ��1</a>
+																	<a href="#" class="blue">[업체명] 상품명1</a>
 																	<span class="label label-warning">XL</span>
-																	<span class="label label-danger">1��</span>
-																	<span class="label label-inverse">�����</span>
+																	<span class="label label-danger">1개</span>
+																	<span class="label label-inverse">배송중</span>
 																</h4>
 															</div>
-															<p>�ֹ����� :<br>�ֹ����� : 
+															<p>주문일자 :<br>주문접수 : 
 															
 															</p>
 															<div class="search-actions text-center">
-																<span class="text-info">��</span>
+																<span class="text-info">￦</span>
 																<span class="blue bolder bigger-150">30000</span>
 																<div class="action-buttons bigger-125">
 																	<a href="#"><i class="ace-icon fa fa-phone green"></i></a>
 																	<a href="#"><i class="ace-icon fa fa-heart red"></i></a>
 																	<a href="#"><i class="ace-icon fa fa-star orange2"></i></a>
 																</div>
-																<a class="search-btn-action btn btn-sm btn-block btn-info">��ǰ������</a>
+																<a class="search-btn-action btn btn-sm btn-block btn-info">상품상세정보</a>
 															</div>
 														</div>
 													</div>														
